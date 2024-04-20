@@ -1,12 +1,5 @@
 /// feature done 
-1. splash screen
-2. onboarding
 
-/// continue
-auth login
-
-
-/// feature remaining
 1. auth
 2. home
 3. cart
